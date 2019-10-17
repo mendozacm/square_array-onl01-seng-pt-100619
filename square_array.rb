@@ -1,4 +1,4 @@
-def square_array(brothers)
+def square_array(array)
   brothers = [1, 2, 3]
 brothers.each do |brother|
     

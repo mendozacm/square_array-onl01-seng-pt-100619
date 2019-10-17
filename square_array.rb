@@ -1,9 +1,4 @@
-
-brothers = [1, 2, 3]
-def square_array(brothers)
-  brothers = [1, 2, 3]
-  
+brothers = ["Tim", "Tom", "Jim"]
 brothers.each do |brother|
-    
-  end
+  puts "Stop hitting yourself #{brother}!"
 end

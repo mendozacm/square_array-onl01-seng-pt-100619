@@ -1,7 +1,7 @@
-def square_array(brothers)
+def square_array(array)
   
-brothers = [1, 2, 3]
-brothers.each do |brother|
-  p  brother ** 2
+array = [1, 2, 3]
+array.each do |number|
+  p  number ** 2
 end
 end
